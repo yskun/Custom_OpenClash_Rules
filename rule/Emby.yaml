@@ -1,4 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,look.bigmelook.com
-  - DOMAIN-SUFFIX,emby.m78tv.com
-  - DOMAIN-SUFFIX,adult.m78tv.com
+  - DOMAIN-SUFFIX,m78tv.com
